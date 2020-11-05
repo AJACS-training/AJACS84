@@ -256,11 +256,11 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
 ![fig12](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_12.png)
 1. submit すると遺伝研スパコンへクエリが飛びます。(ので、講義中は見てるだけにしてください)
 1. submit したあとの画面
-![fig13](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_13.png)
+![fig13](https://raw.githubusercontent.com/hiromasaono/training/master/images/201105_01.png)
 1. 計算が終わるまで待ちます
-![fig14](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_14.png)
+![fig14](https://raw.githubusercontent.com/hiromasaono/training/master/images/201105_02.png)
 1. 計算が終わると、「Result URL」が有効になります。
-  - 今回の例では、 http://ddbj.nig.ac.jp/wabi/chipatlas/wabi_chipatlas_2018-1104-1735-21-275-473936?info=result&format=html
+  - 今回の例では、 http://ddbj.nig.ac.jp/wabi/chipatlas/wabi_chipatlas_2020-1105-0855-56-916-954292?info=result&format=html
 7. 結果の解釈をします。
   - 今回は、どういう「興味ある遺伝子リスト」を使ったか、について上記の結果から考察してみましょう。
     - 「p-valueが低く、Overlaps/My dataが多く、Fold Enrichmentが高い」転写因子がたくさんヒットしてくる　
