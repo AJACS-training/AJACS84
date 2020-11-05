@@ -17,8 +17,8 @@ AJACSオンライン3
 ----
 ## 自己紹介
 - [小野 浩雅](https://sites.google.com/a/dbcls.rois.ac.jp/hono/)  
-- RefExの開発者、統合TVの運営・編集者
-- [Twitter](https://twitter.com/h_ono)
+  - RefExの開発者、統合TVの運営・編集者
+  - [Twitter](https://twitter.com/h_ono)
 
 ----
 ## 概要
