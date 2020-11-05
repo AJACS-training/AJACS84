@@ -263,8 +263,10 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
   - 今回の例では、 http://ddbj.nig.ac.jp/wabi/chipatlas/wabi_chipatlas_2020-1105-0855-56-916-954292?info=result&format=html
 7. 結果の解釈をします。
   - 今回は、どういう「興味ある遺伝子リスト」を使ったか、について上記の結果から考察してみましょう。
-    - 「p-valueが低く、Overlaps/My dataが多く、Fold Enrichmentが高い」転写因子がたくさんヒットしてくる　
-    - → 入力した遺伝子群をまとめて制御する、マスター転写因子を抽出できている可能性が高いと解釈できる。
+    - p-valueが小さい=統計的に有意にEnrichしている
+    - Overlaps/My dataが多い=自分の遺伝子リスト中でピークがオーバーラップしている数
+    - Fold Enrichmentが高い=(Overlaps/Control)/(Overlaps/My data)の割合が高い
+    - これらを満たす転写因子がたくさんヒットしている　→ 入力した遺伝子群をまとめて制御する、マスター転写因子を抽出できている可能性が高いと解釈できる。
 8. [答え合わせ](https://github.com/AJACS-training/AJACS84/blob/master/01_ono/201111_ChIP-Atlas_answer.md)
 
 #### 関連するツール
