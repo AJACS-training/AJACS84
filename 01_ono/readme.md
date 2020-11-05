@@ -357,7 +357,8 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
   - 「定番」として何がよく使われているのかを知り、その使い方を学び、どう使うと便利なのかについて、体系的にまとめて俯瞰的に捉えられるように編集されています。([目次](https://www.medsi.co.jp/books/products/detail.php?product_id=3665))
   - 「この順で動画をみていくと、こういうスキルを獲得できる」というような体系的な教材です。
 
-#### ウェブサイトリニューアル
+#### ウェブサイトリニューアル(11月中を予定)
+  - [プレビューサイト](http://togotv.bhx.jp/)でご覧いただけます。
   - ![ウェブサイトリニューアル](https://raw.githubusercontent.com/hiromasaono/training/master/images/201105_06.png)
 
     ----
@@ -397,8 +398,8 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
   - [GWAS Catalog を使って、GWASで見つかった形質と多型の関連について検索する](https://togotv.dbcls.jp/20180402.html)
   - [ClinVarで疾患に関連する変異を検索し、Variation Viewerで視覚的に変異を探す](https://togotv.dbcls.jp/20180122.html)
   - [gnomADを使ってヒトのエキソームやゲノムのデータから変異を探す](https://togotv.dbcls.jp/20180401.html)
-    - [GTEx Portalを使ってヒトの各組織での遺伝子発現量や影響するeQTLを調べる](https://togotv.dbcls.jp/20180101.html)
-    - [TogoVar でヒトゲノムに存在するバリアントに関連する情報を調べる](https://togotv.dbcls.jp/20180825.html)
+  - [GTEx Portalを使ってヒトの各組織での遺伝子発現量や影響するeQTLを調べる](https://togotv.dbcls.jp/20180101.html)
+  - [TogoVar でヒトゲノムに存在するバリアントに関連する情報を調べる](https://togotv.dbcls.jp/20180825.html)
 
 ----
 
