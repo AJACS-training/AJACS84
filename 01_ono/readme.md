@@ -3,7 +3,7 @@
 大学共同利用機関法人 情報・システム研究機構  
 データサイエンス共同利用基盤施設  
 ライフサイエンス統合データベースセンター    
-[小野 浩雅](https://sites.google.com/a/dbcls.rois.ac.jp/hono/)  
+[小野 浩雅](https://sites.google.com/dbcls.rois.ac.jp/hono/)  
 hono@dbcls.rois.ac.jp  
 2020年11月11日(水)
 AJACSオンライン3
@@ -16,7 +16,7 @@ AJACSオンライン3
 
 ----
 ## 自己紹介
-- [小野 浩雅](https://sites.google.com/a/dbcls.rois.ac.jp/hono/)  
+- [小野 浩雅](https://sites.google.com/dbcls.rois.ac.jp/hono/)  
   - RefExの開発者、統合TVの運営・編集者
   - [Twitter](https://twitter.com/h_ono)
 
