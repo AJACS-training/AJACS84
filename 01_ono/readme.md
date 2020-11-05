@@ -42,8 +42,11 @@ AJACSオンライン3
   - metascape
 
 - 公共データベース上にある遺伝子発現データを解析する
+  - GEO
   - GEO2R
+  - GREIN
   - iDEP
+  - BioJupies
 
 - 研究現場で頻繁に使われるデータベースやツールを知る
   - 統合TV
