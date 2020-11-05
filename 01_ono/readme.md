@@ -327,10 +327,10 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
 ### [統合TV](https://togotv.dbcls.jp/)
 #### 生命科学分野の有用なデータベースやツールの使い方を動画で紹介するウェブサイト
 - https://togotv.dbcls.jp/
-- ![統合TVトップページ](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_01.png)
+- ![統合TVトップページ](https://raw.githubusercontent.com/hiromasaono/training/master/images/201105_03.png)
 - 各動画は[YouTubeに上がって](http://www.youtube.com/user/togotv/)おり、おなじみの再生画面で快適にご覧いただけます。(環境に応じた解像度、倍速表示等)
 - 1800本を超える動画が公開されており、YouTube版だけで のべ 1,800,000回以上 再生されています。(2020年10月末現在)
-- ![YouTube統計](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_03.png)
+- ![YouTube統計](https://raw.githubusercontent.com/hiromasaono/training/master/images/201105_04.png)
 - ![統合TV 再生画面](https://raw.githubusercontent.com/hiromasaono/training/master/images/190606_02.png)
   - ウェブサイトへのアクセスの仕方から結果の解釈まで、操作の一挙手一投足がわかります。
   - 動画ファイルのみの一部および一括ダウンロード([NBDC生命科学系データベースアーカイブ](https://dbarchive.biosciencedbc.jp/jp/togotv/download.html))も可能で、オフライン視聴もできます。
@@ -344,20 +344,21 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
   - 受講生の復習のみならず、初学者の学習教材として活用できます。
 - [Togo Picture Gallery(静止画)](https://togotv.dbcls.jp/pics.html)
   - 誰でも自由に利用可能なライフサイエンス分野のイラストが､統合TVから閲覧､利用することができるようになりました。[「自由に使える画像を探す」](https://togotv.dbcls.jp/ja/pics.html)
-  - Togo picture galleryと[生物アイコン](https://togodb.biosciencedbc.jp/togodb/view/taxonomy_icon)の全画像500点以上を一覧できます。
+  - Togo picture galleryと[生物アイコン](https://togodb.biosciencedbc.jp/togodb/view/taxonomy_icon)の全画像700点以上を一覧できます。
   - 研究発表のスライド作成や資料作成等に､ぜひお使いください。
-  - ![自由に使える画像を探す](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_04.png)
+  - ![自由に使える画像を探す](https://raw.githubusercontent.com/hiromasaono/training/master/images/201105_05.png)
 
 #### 募集と宣伝
 - お探しの動画・静止画が見つからない場合は、[統合TV番組リクエストフォーム](https://togotv.dbcls.jp/contact.html)でお気軽にリクエストを。
 - 統合TVでコンテンツを作ってみたい方も募集中です。
   - オンラインで完結する作成環境を整備しており、遠隔地でもOKです。謝金あり。)
 - 統合TVを効果的に利用するためのガイドブックが出版されました。(2018年12月)
-  - 生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！ 研究がはかどる定番18選 －
-  - 「定番」として何がよく使われているのかを知り、その使い方を学び、どう使うと便利なのかについて、体系的にまとめて俯瞰的に捉えられるように編集されています。
+  - [生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！ 研究がはかどる定番18選 －](https://www.amazon.co.jp/dp/4815701431/)
+  - 「定番」として何がよく使われているのかを知り、その使い方を学び、どう使うと便利なのかについて、体系的にまとめて俯瞰的に捉えられるように編集されています。([目次](https://www.medsi.co.jp/books/products/detail.php?product_id=3665))
   - 「この順で動画をみていくと、こういうスキルを獲得できる」というような体系的な教材です。
-  - https://www.amazon.co.jp/dp/4815701431/
-  - https://www.medsi.co.jp/books/products/detail.php?product_id=3665
+
+#### ウェブサイトリニューアル
+  - ![ウェブサイトリニューアル](https://raw.githubusercontent.com/hiromasaono/training/master/images/201105_06.png)
 
     ----
 
