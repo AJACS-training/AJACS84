@@ -138,11 +138,11 @@ AJACSオンライン3
              https://www.natureasia.com/ja-jp/scientificdata/papers-from-japan/fantom5
   * 小野 浩雅・坊農 秀雅 「遺伝子発現解析の基準となるデータを快適に検索できるウェブツールRefEx」 ライフサイエンス新着論文レビュー (平成29年9月5日)
              [DOI: 10.7875/first.author.2017.093](http://doi.org/10.7875/first.author.2017.093)
-  * 統合TV 「RefExの使い方」[DOI: 10.7875/togotv.2014.009](http://doi.org/10.7875/togotv.2014.009)
+  * 統合TV 「RefExの使い方」[DOI: 10.7875/togotv.2014.009](https://togotv.dbcls.jp/20140222.html)
 ----
 
 ### 【使用例】RefExを使って、組織特異的遺伝子を検索する
-- 【統合TV】[RefExの使い方](https://doi.org/10.7875/togotv.2014.009)
+- 【統合TV】[RefExの使い方](https://togotv.dbcls.jp/20140222.html)
 1. https://refex.dbcls.jp/ を開きます。
 2. 画面中央の「組織特異的に発現する遺伝子を見る」の臓器アイコンにカーソルを合わせると、更に詳細な部位のアイコンが出るので、調べたい臓器（例として肝臓）をクリックします。  
    - ![http://gyazo.com/35c8f38340753e8f433cb8c4d8fd812b](http://i.gyazo.com/35c8f38340753e8f433cb8c4d8fd812b.jpg)
@@ -382,10 +382,10 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
   - PubMedの新インターフェースの紹介もあります。
 
 - 塩基配列解析に関わる基礎知識(遺伝子IDとそのデータベース)とゲノム編集について
-  - [塩基配列解析およびゲノム編集のためのデータベース・ウェブツール](https://togotv.dbcls.jp/ja/ajacs2018021.html)
+  - [塩基配列解析およびゲノム編集のためのデータベース・ウェブツール](https://togotv.dbcls.jp/ajacs2018021.html)
 
 - 次世代シーケンス(NGS)データ解析に必要な基礎知識とリテラシーを学ぶ
-  - [NGSデータから新たな知識を導出するためのデータ解析リテラシー @ AJACS浜松](https://togotv.dbcls.jp/ja/ajacs2018008.html)
+  - [NGSデータから新たな知識を導出するためのデータ解析リテラシー @ AJACS浜松](https://togotv.dbcls.jp/ajacs2018008.html)
 
 - NGS解析について、さらにもっと基礎から応用までを深く学びたい方向け (それぞれ約50時間程度)
   - [「バイオインフォマティクス人材育成カリキュラム（次世代シークエンサ）速習コース(2014年8月)](https://www.youtube.com/playlist?list=PL0uaKHgcG00abmj1Nzs1SUhqKLjf_PFBB)
